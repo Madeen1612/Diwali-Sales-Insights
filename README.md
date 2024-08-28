@@ -25,6 +25,6 @@
 # Project Results:
 This Diwali Sales Insights EDA project ptovides valuable insights and sales performance during the Diwali festival. This analysis reveals:
 * Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
-* Overall sales trends during the Diwali season, including peak sales periods, fluctuations, and year-on-year comparisons.
+* Overall sales trends during the Diwali season, including peak sales periods, fluctuations, and year-on-year comparisions.
 * Top-selling products and their contribution to overall revenue, enabling businesses to focus on high-impact product offerings.
 * Customer segmentation is based on purchasing behavior, demographics, and engagement. This segmentation helps in tailoring marketing campaigns and offers to specific customer segments.
